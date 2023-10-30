@@ -1,0 +1,30 @@
+	         
+	.button {
+		background-image: linear-gradient(to right, #000000 0%, #e74c3c  51%, #000000  100%);
+		margin: auto;
+		padding: 10px 25px;
+		text-align: center;
+		text-transform: uppercase;
+		transition: 0.5s;
+		background-size: 200% auto;
+		color: white;            
+		box-shadow: 0 0 20px #eee;
+		border-radius: 40px;
+		display: block;
+		font-family: sans-serif, Arial, Helvetica;
+		font-size: 13px;
+		font-weight: bold;
+		cursor: pointer;
+	}
+
+	.button:hover {
+		background-position: right center;
+		color: #fff;
+		text-decoration: none;
+	}
+         
+		 
+		         
+
+        
+         

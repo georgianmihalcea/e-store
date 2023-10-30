@@ -1,0 +1,16 @@
+	.button {
+    cursor: pointer;
+	outline: 0;
+	color: #fff;
+    background-color: #ff0000;
+    border-color: #ff0000;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 16px;
+    border-radius: .25rem;
+    }
+                
